@@ -1,0 +1,43 @@
+h1, #centerfont {
+	text-align: center;
+}
+
+#redfont {
+	color: red;
+}
+
+#bluefont {
+	color: blue;
+}
+
+#greenfont {
+	color: green;
+}
+
+#bigfont {
+	font-size: 60px;
+}
+
+#tinyfont {
+	font-size: 10px;
+}
+
+#boldfont {
+	font-weight: bold;
+}
+
+#famfont {
+	font-family: monospace;
+}
+
+#crayfont {
+	font-weight: bold; color: orange; font-size: 40px;
+}
+
+.styledFont {
+	font-family: sans-serif; color: green; font-style: italic;
+}
+
+#styledImage {
+	border: 10px solid purple;
+}
